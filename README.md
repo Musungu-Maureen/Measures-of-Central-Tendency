@@ -6,8 +6,11 @@ The project was done as an assessment for a Data Science Course.
 
 ## Summary of Analysis
 a) Coming up with the research question
+ 
 b) Cleaning the dataset  
+
 c) Carrying out univariate and bivariate analysis and making the respective plots
+
 d) Implementing the solution by performing hypothesis testing
 
 
